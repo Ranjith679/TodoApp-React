@@ -53,5 +53,5 @@ The app will be running on `http://localhost:3000` by default.
 
 ## Screenshots
 
-![Todo App Screenshot](./screenshot/TodoScreenshot)
+![Todo App Screenshot](screenshot/TodoScreenshot.jpg)
 
